@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#home{
+    background: url(img/photo-1462396240927-52058a6a84ec.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.one{
+    margin-left: 0 auto;
+}
+.background {
+    background: #042352;
+    color: #fff;
+    position: relative;
+    clip-path: polygon(0 0, 90% 0, 100% 100%, 0% 100%);
+}
+.one-left{
+    padding: 7% 20% 0% 24%;
+  }
+.heading h4{
+    font-size: 27px;
+    margin-bottom: 2%;
+}
+.paragraph p{
+    font-size: 14px;
+    margin-bottom: 5%;
+}
+
+
+.button button{
+    background: #b7d330;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    margin-bottom: 10%;
+}
+.right-bg img{
+  position: absolute;
+  right: 120px;
+  
+}
+
+.dot{
+    height: 10px;
+    width: 100%;
+    background: #b8d230;
+}
+
+#About{
+    background: url(img/child-sleeping.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.one-right{
+     padding: 7% 34% 0% 13%;
+}
+.background-1 {
+    background: #00cccd;
+    color: #fff;
+    position: relative;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 10% 100%);
+}
